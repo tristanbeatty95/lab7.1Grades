@@ -1,0 +1,9 @@
+package grandcircus.co.lab71.repositories;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import grandcircus.co.lab71.model.Grades;
+
+public interface GradeRepository extends MongoRepository<Grades, String>{
+
+}

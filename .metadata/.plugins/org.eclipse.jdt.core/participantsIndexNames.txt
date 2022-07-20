@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/tristanbeatty/Documents/JavaBootcamp/Lab7.1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1363735912.index
+/lab71/src/main/java

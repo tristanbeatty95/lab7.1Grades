@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Grades.java&apos; to &apos;lab71/src/main/java/grandcircus.co.lab71.model&apos;&#x0A;- Original project: &apos;lab71&apos;&#x0A;- Destination element: &apos;lab71/src/main/java/grandcircus.co.lab71.model&apos;&#x0A;- Original element: &apos;grandcircus.co.lab71.Grades.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;grandcircus.co.lab71.model" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;grandcircus.co.lab71{Grades.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1658249698395" units="1" version="1.0"/>
+</session>
